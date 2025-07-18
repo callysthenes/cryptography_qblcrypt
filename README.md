@@ -18,8 +18,8 @@ To ensure everyone has a uniform environment, **all labs are conducted inside a 
 
 ### 1️⃣ Install Kali Linux
 
-- Download the latest **Kali Linux VirtualBox or VMware image** from the [official Kali website](https://www.kali.org/get-kali/#kali-virtual-machines).
-- Import the VM into VirtualBox or VMware using your platform’s import wizard.
+- Download the latest **Kali Linux VirtualBox** from here.
+- Import the VM into VirtualBox using your platform’s import wizard.
 
 ### 2️⃣ Configure Your Tools
 
