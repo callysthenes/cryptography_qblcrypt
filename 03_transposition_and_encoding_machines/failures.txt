@@ -1,0 +1,5 @@
+Sep 18 10:01:05 server sshd[1805]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.51.100.12  user=root
+Sep 18 10:02:21 server sshd[1921]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.55  user=root
+Sep 18 10:05:11 server sshd[2211]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.55  user=guest
+Sep 18 10:07:01 server sshd[2401]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.55  user=admin
+Sep 18 10:10:01 server sshd[2701]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.0.2.14  user=root
