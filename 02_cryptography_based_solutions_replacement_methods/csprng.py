@@ -1,6 +1,6 @@
 # =============================================================================
 #
-#   A Student's Guide to Cracking Python's `random` Module (Glass Box Version)
+#   A Student's Guide to Cracking Python's `random` Module
 #
 #   This script provides a detailed, step-by-step visualization of the
 #   bitwise operations used to reverse the generator's disguise and
